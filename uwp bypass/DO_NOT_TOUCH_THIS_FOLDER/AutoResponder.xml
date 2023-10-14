@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="" FiddlerVersion="5.0.20211.51073">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="https://www.roblox.com/mobileapi/check-app-version?appVersion=AppUWPV" Action=".txt" Enabled="true" />
+  </State>
+</AutoResponder>
